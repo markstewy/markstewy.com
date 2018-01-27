@@ -1,0 +1,13 @@
+.nav-logo-light {
+  font-size: 37px;
+  font-weight: bold;
+  padding-top: 9px;
+  color: white;
+
+}
+.nav-logo-dark {
+  font-size: 37px;
+  font-weight: bold;
+  padding-top: 9px;
+  color: black;
+}
